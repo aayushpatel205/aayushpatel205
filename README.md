@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aayushpatel205
 - 👀 I’m interested in making web applications !
-- 🌱 I’m currently learning ReactJS...
+- 🌱 I’m currently learning React Native...
   
 
 <!---
