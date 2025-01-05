@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @aayushpatel205
 - 👀 I’m interested in making web applications !
-- 🌱 I’m currently learning React Native...
+- 🌱 I’m currently have a good amount of experience in making front end applications using React and also a fair amount of experience in building mobile applications using React Native...
+
+- I am currently learning backend using Node Js and Mongo DB.
   
 
 <!---
