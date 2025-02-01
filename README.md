@@ -2,7 +2,7 @@
 - 👀 I’m interested in making web and mobile applications !
 - 🌱 I currently have a good amount of experience in making front end applications using React and also a fair amount of experience in building mobile applications using React Native...
 
-- I am currently learning backend using Node Js and Mongo DB.
+- I am currently learning backend using Node Js , Express Js and Mongo DB.
   
 
 <!---
