@@ -1,4 +1,3 @@
-:
 
 👋 Hi, I’m @aayushpatel205!
 👀 I’m passionate about building web and mobile applications.
