@@ -2,7 +2,7 @@
 👋 Hi, I’m @aayushpatel205!
 👀 I’m passionate about building web and mobile applications.
 
-I have strong experience in frontend development using JavaScript, React, TypeScript, Redux, and React Native (with Expo). I’ve also worked extensively on mobile app development with React Native.
+I have strong experience in frontend development using JavaScript, React, TypeScript, and Redux. I’ve also worked extensively on mobile app development with React Native ( with Expo ).
 
 Currently, I’m expanding my skills in backend development with Node.js, Express.js, and MongoDB to become a full-stack developer.
 
