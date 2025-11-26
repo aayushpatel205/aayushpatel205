@@ -1,16 +1,11 @@
+👋 Hi, I’m Aayush Patel. I’m passionate about building modern web and mobile applications. I have strong experience in frontend development, and I’ve also learned backend development (Node.js, Express.js, MongoDB) as well as Next.js for full-stack applications. I’m currently focused on building real-world projects to strengthen my skills and create scalable, production-ready apps. Looking forward to collaborating and building amazing products! 🚀
 
-👋 Hi, I’m @aayushpatel205!
-👀 I’m passionate about building web and mobile applications.
+Tech Stack
 
-I have strong experience in frontend development using JavaScript, React, TypeScript, and Redux. I’ve also worked extensively on mobile app development with React Native ( with Expo ).
+Frontend: JavaScript, TypeScript, React, Redux, Next.js
 
-Currently, I’m expanding my skills in backend development with Node.js, Express.js, and MongoDB to become a full-stack developer.
+Mobile: React Native (Expo)
 
-Additionally, I have experience working with various cloud technologies like Firebase, Supabase, and Sanity.io for authentication, databases, and content management.
+Backend: Node.js, Express.js, MongoDB
 
-Looking forward to collaborating and building amazing projects! 🚀
-
-<!---
-aayushpatel205/aayushpatel205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cloud / Tools: Firebase, Supabase , Neon (PostgreSQL)
