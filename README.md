@@ -1,7 +1,7 @@
 
 ---
 
-👋 Hi, I'm Aayush Patel
+# 👋 Hi, I'm Aayush Patel
 
 🚀 Passionate about building **modern web and mobile applications** and crafting **scalable, production-ready systems.**
 
