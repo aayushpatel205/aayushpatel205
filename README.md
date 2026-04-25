@@ -1,11 +1,15 @@
-# 👋 Hi, I'm Aayush Patel  
 
-🚀 Passionate about building **modern web & mobile applications** and crafting **scalable production-ready systems.**  
+---
 
-I specialize in **Frontend Development**, while also building **Full-Stack applications using Node.js & Next.js.**  
-Recently, I’ve been exploring **Generative AI**, building **RAG pipelines, Agentic workflows, and intelligent applications.**  
+👋 Hi, I'm Aayush Patel
 
-✨ Always excited to collaborate and build impactful products.
+🚀 Passionate about building **modern web and mobile applications** and crafting **scalable, production-ready systems.**
+
+I specialize in **Frontend Development**, while also developing **full-stack applications using Node.js and Next.js.** Alongside this, I’ve built multiple **mobile applications using React Native and Expo**, focusing on performance, usability, and real-world impact.
+
+Recently, I’ve been exploring **Generative AI**, working on **RAG pipelines, agentic workflows, and intelligent applications** that push the boundaries of user experience.
+
+✨ Always excited to collaborate, learn, and build impactful products.
 
 ---
 
